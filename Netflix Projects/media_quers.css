@@ -1,0 +1,289 @@
+@media (min-width: 1400px) and (max-width: 2600px) {
+  /* Styles for desktops and large screens */
+  nav {
+    padding-top: 1vw;
+  }
+  img {
+    width: 13vw;
+    height: 15vh;
+  }
+  .btn-1 {
+    width: 10vw;
+    height: 10vh;
+    padding-bottom: 2px;
+  }
+  .imagecontainer {
+    height: 90vh;
+  }
+  .btn-2 {
+    width: 22vw;
+    height: 12vh;
+    padding-bottom: 4px;
+  }
+  .email-input {
+    height: 10vh;
+  }
+  .signIn {
+    padding-top: 1vw;
+  }
+  h2 {
+    font-size: 2.5vw;
+    margin: 0px 0px;
+  }
+  h3 {
+    font-size: 2vw;
+  }
+  .cards-text {
+    width: 30vw;
+    height: 35vh;
+  }
+  .cards-text svg {
+    width: 14vw;
+    height: 15vh;
+  }
+  p svg {
+    width: 4vw;
+    height: 8vh;
+  }
+  .cards-qs {
+    height: 15vh;
+  }
+  .btn-foot {
+    width: 19vw;
+    height: 10vh;
+  }
+  .custom-select {
+    padding: 5px 15px;
+  }
+  select {
+    padding-left: 12px;
+    font-size: 15vw;
+  }
+  .custom-select::after {
+    font-size: 25px;
+  }
+  .language-button {
+    width: 8vw;
+    height: 4vh;
+  }
+}
+@media (min-width: 1025px) and (max-width: 1366px) {
+  /* Styles for tablets in landscape or small laptops */
+  img {
+    width: 20vw;
+    height: 20vh;
+  }
+  .btn-1 {
+    width: 12vw;
+    height: 13vh;
+    text-align: center;
+  }
+  .imagecontainer {
+    height: 90vh;
+  }
+  .btn-2 {
+    width: 23vw;
+    height: 14vh;
+  }
+  .email-input {
+    height: 13vh;
+  }
+  .signIn {
+    margin: 3vw 0px;
+  }
+  h3 {
+    font-size: 2.2vw;
+  }
+  .cards-text {
+    width: 30vw;
+    height: 30vh;
+  }
+  .cards-qs {
+    height: 20vh;
+  }
+  .btn-foot {
+    width: 25vw;
+    height: 15vh;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  /* Styles for tablets in portrait */
+  img {
+    width: 20vw;
+    height: 13vh;
+  }
+  .btn-1 {
+    width: 10vw;
+    height: 9vh;
+  }
+  .imagecontainer {
+    height: 90vh;
+  }
+  .btn-2 {
+    width: 23vw;
+    height: 10vh;
+    text-align: center;
+  }
+  .email-input {
+    height: 10vh;
+  }
+  .signIn {
+    margin: 3vw 0px;
+  }
+  h2 {
+    margin-right: 13vw;
+  }
+  h3 {
+    font-size: 2.2vw;
+  }
+  .cards-text {
+    width: 30vw;
+    height: 23vh;
+  }
+  .cards-qs {
+    height: 12vh;
+  }
+  .btn-foot {
+    width: 20vw;
+    height: 10vh;
+  }
+}
+@media (min-width: 481px) and (max-width: 767px) {
+  /* Styles for large mobile phones in landscape */
+  nav {
+    margin: 0px 0px;
+  }
+  img {
+    width: 14vw;
+    height: 8vh;
+  }
+  .btn-1 {
+    width: 10vw;
+    height: 6vh;
+    text-align: center;
+  }
+  .signIn {
+    flex-direction: column;
+    gap: 3vw;
+  }
+  .imagecontainer {
+    height: 80vh;
+  }
+  .btn-2 {
+    width: 20vw;
+    height: 8vh;
+    text-align: center;
+  }
+  .email-input {
+    height: 8vh;
+  }
+  h2 {
+    font-size: 1.6vw;
+    margin: 0px 0px;
+  }
+  .custom-select select {
+    padding: 6px 10px 6px 17px;
+  }
+  .custom-select {
+    padding: 5px 15px;
+  }
+  h3 {
+    font-size: 2.2vw;
+  }
+  .top-sec {
+    padding: 1.2vw 1vw;
+    margin: 2vw 0px;
+  }
+  .sec-op {
+    margin-left: 30vw;
+  }
+  .cards-text {
+    width: 30vw;
+    height: 23vh;
+  }
+  .cards-qs {
+    height: 9vh;
+  }
+  .btn-foot {
+    width: 17vw;
+    height: 8vh;
+  }
+}
+@media (min-width: 1px) and (max-width: 480px) {
+  /* Styles for small mobile phones */
+  img {
+    width: 13vw;
+    height: 6vh;
+  }
+  .btn-1 {
+    width: 11vw;
+    height: 5vh;
+    text-align: center;
+  }
+  nav {
+    padding: 1.5vw 2vw;
+  }
+  .signIn {
+    flex-direction: column;
+    gap: 3vw;
+  }
+  .imagecontainer {
+    height: 60vh;
+    margin: 0vw 2.5vw;
+  }
+  .font-3 {
+    margin: 4vw 0px;
+  }
+  .sec-op {
+    margin-left: 0px;
+  }
+  .btn-2 {
+    width: 20vw;
+    height: 4vh;
+    text-align: center;
+  }
+  .email-input {
+    height: 4vh;
+  }
+  .custom-select select {
+    padding: 2px 14px;
+  }
+  .top-sec {
+    padding: 5px 23px;
+    flex-direction: column;
+    gap: 3vw;
+  }
+  h2 {
+    font-size: 2.8vw;
+    text-align: center;
+    margin-left: 25vw;
+  }
+  h3 {
+    font-size: 3vw;
+  }
+  p svg{
+    width: 22px;
+  }
+  .cards-text {
+    width: 30vw;
+    height: 30vh;
+  }
+  .cards-text p {
+    font-size: 4vw;
+  }
+  .cards-flex {
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   padding: 4px 12vw;
+  }
+  .cards-qs {
+    height: 6vh;
+  }
+  .btn-foot {
+    width: 20vw;
+    height: 4vh;
+  }
+  .language-button {
+    padding: 6px 8px;
+  }
+}
