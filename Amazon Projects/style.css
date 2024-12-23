@@ -79,7 +79,7 @@ select {
 .search-bar button {
   background-color: #a9176f;
   border: none;
-  padding: 16px 16px;
+  padding: 22px 20px;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -93,6 +93,14 @@ select {
   color: white;
   font-size: 16px;
 }
+select option {
+  font-size: 0.7vw;
+}
+
+select option[value="All"] {
+  font-size: 1.5vw;
+}
+
 .btn-lg > select {
   width: 7vw;
   height: 4vh;
@@ -102,7 +110,7 @@ select {
 }
 .btn-lg.hover-1 {
   position: relative;
-  transition: all 0.3s ease; /* Smooth transition for hover effects */    
+  transition: all 0.3s ease; /* Smooth transition for hover effects */
 }
 
 .btn-lg.hover-1:hover {
@@ -224,7 +232,7 @@ select {
   width: 35vw;
   height: 55vh;
   background-color: #ffffff;
-  padding: 1.5vw 12px ;
+  padding: 1.5vw 12px;
 }
 .card:hover {
   transform: scale(1.05); /* 5% enlarge on hover */
