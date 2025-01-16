@@ -1,46 +1,53 @@
-# Netflix and Amazon Clone Projects
+**HTML and CSS Responsive Design Projects**
 
-Welcome to the **Netflix Clone** and **Amazon Clone** projects, developed by **Zubair Pro Coder**, a skilled web developer specializing in modern, professional, and interactive website designs. These projects demonstrate the power of **HTML** and **CSS** to create sleek, responsive, and user-friendly interfaces without the use of frameworks.
+Welcome to the Netflix Clone and Amazon Clone projects, developed by Zubair Pro Coder, a skilled web developer specializing in modern, professional, and interactive website designs. These projects demonstrate the power of HTML and CSS to create sleek, responsive, and user-friendly interfaces without the use of frameworks.
 
----
+🚀 Project Highlights
 
-## 🚀 Project Highlights
+Netflix Clone 🎮
 
-### Netflix Clone 🎬
-- **Responsive Design:** Ensures seamless user experience across devices.
-- **Visually Stunning Layout:** Mimics the authentic Netflix platform with interactive elements.
-- **Real-Time Feel:** Optimized for content display and fluid navigation.
+Responsive Design: Ensures seamless user experience across devices.
 
-### Amazon Clone 🛒
-- **E-Commerce Functionality:** Includes realistic product listings, pricing layouts, and navigation.
-- **Interactive User Interface:** Designed for intuitive browsing and engagement.
-- **Mobile-First Approach:** Fully responsive for mobile, tablet, and desktop views.
+Visually Stunning Layout: Mimics the authentic Netflix platform with interactive elements.
 
----
+Real-Time Feel: Optimized for content display and fluid navigation.
 
-## 🌐 Live Previews
-- **Netflix Clone:** [View Project](https://67696cc0a7940225c747c087--fluffy-baklava-24334a.netlify.app/)
-- **Amazon Clone:** [View Project](https://6768f8bf632143d99aa32626--elaborate-tulumba-60a061.netlify.app/)
+Amazon Clone 🛒
 
----
+E-Commerce Functionality: Includes realistic product listings, pricing layouts, and navigation.
 
-## 🛠️ Built With
-- **HTML5**: Semantic and structured content.
-- **CSS3**: Advanced styling, animations, and responsive design.
+Interactive User Interface: Designed for intuitive browsing and engagement.
 
----
+Mobile-First Approach: Fully responsive for mobile, tablet, and desktop views.
 
-## 🎯 Features
-- Scalable and customizable codebase.
-- No frameworks—pure HTML and CSS expertise.
-- Ideal for:
-  - **Beginners** to learn modern HTML/CSS techniques.
-  - **Professionals** to explore advanced design concepts.
+🌐 Live Previews
 
----
+**Netflix Clone:** View Project
 
-## 📂 Folder Structure
-```plaintext
+**Amazon Clone:** View Project
+
+**Blinkit Clone:** View Project
+
+🛠️ Built With
+
+HTML5: Semantic and structured content.
+
+CSS3: Advanced styling, animations, and responsive design.
+
+🎯 Features
+
+Scalable and customizable codebase.
+
+No frameworks—pure HTML and CSS expertise.
+
+Ideal for:
+
+Beginners to learn modern HTML/CSS techniques.
+
+Professionals to explore advanced design concepts.
+
+📂 Folder Structure
+
 .
 ├── netflix-clone/
 │   ├── index.html
@@ -50,4 +57,9 @@ Welcome to the **Netflix Clone** and **Amazon Clone** projects, developed by **Z
 │   ├── index.html
 │   ├── style.css
 │   └── assets/
+├── blinkit-clone/
+│   ├── index.html
+│   ├── style.css
+│   └── assets/
 └── README.md
+
